@@ -1,6 +1,4 @@
 # Tic Tac Toe
-### Watch the Demo:
-[![Watch the Demo](https://img.youtube.com/vi/SnYdOFU5L24/0.jpg)](https://www.youtube.com/watch?v=SnYdOFU5L24)
 
 ## Introduction:
 
@@ -69,6 +67,10 @@ Enter column #(1-3): 3
    O | X | O
 
 ```
+
+### 📺 Watch the Demo:
+[![Watch the Demo](https://img.youtube.com/vi/SnYdOFU5L24/0.jpg)](https://www.youtube.com/watch?v=SnYdOFU5L24)
+
 
 ## Future Enhancements (TODO):
 
